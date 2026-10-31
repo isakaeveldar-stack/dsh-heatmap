@@ -1,0 +1,11 @@
+﻿# secrets and local data
+.env
+.github-token
+data/*
+!data/universe.json
+node_modules/
+*.log
+dist-heatmap/
+dist-heatmap.zip
+package.json
+pnpm-lock.yaml
